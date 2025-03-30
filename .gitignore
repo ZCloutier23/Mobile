@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Kotlin/Android
+*.iml
+.gradle/
+build/
+.idea/
+*.log
+
+# VS Code
+.vscode/
+
+# Vim
+*.swp
